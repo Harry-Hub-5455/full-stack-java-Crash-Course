@@ -3,10 +3,6 @@ Final Project for Java Full Stack Developer:
 
 ## Application Name: Online Account Management System
 
-- Srikanth Sambirli
-- Java Full Stack Developer
-- Bangalore, India
-
 ## Technologies Used
 
 Java 8, Spring Boot, Html5, Spring JPA, MySql, Spring Restful Webservices
